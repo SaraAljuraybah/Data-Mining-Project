@@ -44,12 +44,6 @@ Data-Mining-Project/
   - Final report in `Reports/Phase3.ipynb`.  
 
 ## Team Members
-- Student 1  
-- Student 2  
-- Student 3  
-- Student 4  
-
-## Team Members
 - Sara Aljuraybah 445201345 
 - Student 2  
 - Student 3  

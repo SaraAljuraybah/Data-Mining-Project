@@ -24,6 +24,30 @@ Data-Mining-Project/
 │ └─ related_paper.pdf
 └─ README.md
 
+## Deliverables
+
+- **Phase 1 (Data Selection)**  
+  - Raw dataset uploaded to `Dataset/Raw_dataset.xlsx`.  
+  - Initial analysis in `Reports/Phase1.ipynb` (dataset description, class label distribution).  
+  - Related research paper in `References/`.  
+
+- **Phase 2 (Data Summarization & Preprocessing)**  
+  - Exploratory Data Analysis (EDA).  
+  - Data cleaning, transformation, and preprocessing steps.  
+  - Preprocessed dataset saved as `Dataset/Preprocessed_dataset.csv`.  
+  - Work documented in `Reports/Phase2.ipynb`.  
+
+- **Phase 3 (Data Mining & Evaluation)**  
+  - Apply classification (Decision Tree with Gini & Entropy).  
+  - Apply clustering (K-means, Silhouette score, Elbow method).  
+  - Compare results and discuss findings.  
+  - Final report in `Reports/Phase3.ipynb`.  
+
+## Team Members
+- Student 1  
+- Student 2  
+- Student 3  
+- Student 4  
 
 ## Team Members
 - Sara Aljuraybah 445201345 

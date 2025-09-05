@@ -45,7 +45,7 @@ Data-Mining-Project/
 
 ## Team Members
 - Sara Aljuraybah 445201345 
-- Student 2  
+- Sarah Altamimi 445202337
 - Student 3  
 - Student 4  
 

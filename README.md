@@ -1,11 +1,12 @@
 # Data-Mining-Project
-Data Mining project analyzing the impact of social media on academic performance of undergraduates
+
+Data Mining project analyzing the impact of social media on academic performance of undergraduates. Most features are binary(0/1) indicating usage pattrens, while the target column is a Likert scale (0-5).
 
 ## Project Goal
 This project aims to analyze and classify the impact of social media usage on the academic performance of undergraduate students. Using data mining techniques such as classification and clustering, we will investigate how different patterns of social media behavior influence students' academic outcomes.
 
 ## Motivation
-Social media has become an essential part of students' daily lives, and its influence on academic performance is a widely discussed topic. By applying data mining methods, this project seeks to uncover meaningful patterns and provide insights into how social media usage affects study habits, concentration, and overall academic success.
+Social media is a major part of students’ daily life, but it often affects focus, study habits, and academic success. Since most students face this challenge, our project aims to explore the impact of social media on academic performance using data mining to discover real patterns and insights.
 
 ## Dataset
 - Source: [Kaggle – Impact of Social Media on Academic Performance](https://www.kaggle.com/datasets/aderonkeayobami/impact-of-social-media-on-academic-performances)  

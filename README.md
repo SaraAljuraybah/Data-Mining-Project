@@ -16,12 +16,11 @@ Social media has become an essential part of students' daily lives, and its infl
 Data-Mining-Project/
 ├─ Dataset/
 │ └─ Raw_dataset.xlsx
+│ └─ related_paper.pdf
 ├─ Reports/
 │ ├─ Phase1.ipynb
 │ ├─ Phase2.ipynb
 │ └─ Phase3.ipynb
-├─ References/
-│ └─ related_paper.pdf
 └─ README.md
 
 ## Deliverables
@@ -29,7 +28,7 @@ Data-Mining-Project/
 - **Phase 1 (Data Selection)**  
   - Raw dataset uploaded to `Dataset/Raw_dataset.xlsx`.  
   - Initial analysis in `Reports/Phase1.ipynb` (dataset description, class label distribution).  
-  - Related research paper in `References/`.  
+  - Related research paper in `Dataset/`.  
 
 - **Phase 2 (Data Summarization & Preprocessing)**  
   - Exploratory Data Analysis (EDA).  

@@ -17,7 +17,7 @@ Social media is a major part of students’ daily life, but it often affects foc
 Data-Mining-Project/
 ├─ Dataset/
 │ └─ Raw_dataset.xlsx
-│ └─ related_paper.pdf
+│ └─ recearch_paper.pdf
 ├─ Reports/
 │ ├─ Phase1.ipynb
 │ ├─ Phase2.ipynb

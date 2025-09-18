@@ -44,7 +44,7 @@ Data-Mining-Project/
   - Final report in `Reports/Phase3.ipynb`.  
 
 ## Team Members
-- Sara Aljuraybah 445201345 
+- Sarah Aljuraybah 445201345 
 - Sarah Altamimi 445202337
 - Dana Alosaimi 445201154 
 - Haya Alomar 445203016  
